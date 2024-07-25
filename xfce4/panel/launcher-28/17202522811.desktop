@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=surf (on my-distrobox)
+Comment=small and simple browser
+Categories=Network;GTK;WebBrowser;
+Exec=/usr/bin/distrobox-enter  -n my-distrobox  --   surf  file:///home/batan/10/html/homepage/d.html
+Icon=surf
+Terminal=true
+Type=Application
+X-Desktop-File-Install-Version=0.26
+StartupWMClass=surf
+X-XFCE-Source=file:///home/batan/.local/share/applications/my-distrobox-surf.desktop
+Path=
+StartupNotify=false

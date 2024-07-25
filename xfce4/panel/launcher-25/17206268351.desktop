@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Script Server
+Comment=
+Exec=/usr/bin/distrobox-enter  -n my-distrobox  --   surf http://localhost:5000/admin.html 
+Icon=/home/batan/100/icons/lc_128x128.png
+Path=
+Terminal=false
+StartupNotify=false

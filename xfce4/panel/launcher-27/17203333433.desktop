@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Weather
+Comment=
+Exec=/usr/bin/lc-weather
+Icon=/home/batan/100/icons/c12.png
+Path=
+Terminal=false
+StartupNotify=false
