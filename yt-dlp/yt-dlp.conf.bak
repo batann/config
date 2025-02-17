@@ -1,0 +1,8 @@
+ --force-write-archive  /media/batan/100/Videos/archive.txt 
+ --output="/media/batan/100/Videos/new.$(date +%j)/%(title)s.%(ext)s" 
+ --download-archive /media/batan/100/Videos/archive.txt 
+ --restrict-filenames 
+ --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" 
+ --downloader aria2c 
+ --extractor-args "generic:impersonate"
+
