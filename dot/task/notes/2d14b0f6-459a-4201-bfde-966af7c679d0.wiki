@@ -1,0 +1,1 @@
+tom bashrc env vars and home directory in /media/batan/100
