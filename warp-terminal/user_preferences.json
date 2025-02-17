@@ -1,0 +1,29 @@
+{
+  "prefs": {
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"},{\"Action\":\"CommandPalette\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"ThemePicker\"},{\"Hint\":\"BlockAction\"}]",
+    "AgentModeOnboardingBlockShown": "true",
+    "AliasExpansionBannerSeen": "true",
+    "AgentModeSuggestionsBlockState": "\"DoNotShow\"",
+    "NextCommandSuggestionsUpgradeBannerNumTimesShownThisPeriod": "0",
+    "FontSize": "13.0",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "SameLinePromptBlockState": "\"DoNotShow\"",
+    "AutosuggestionAcceptedCount": "1",
+    "TelemetryEnabled": "true",
+    "HonorPS1": "false",
+    "WorkflowsBoxOpen": "true",
+    "SavedPrompt": "\"Default\"",
+    "AIRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":1,\"next_refresh_time\":\"2025-01-25T07:29:25.296933Z\",\"is_unlimited\":false,\"request_limit_refresh_duration\":\"Monthly\",\"accepted_autosuggestions_limit\":250,\"is_unlimited_autosuggestions\":false,\"accepted_autosuggestions_since_last_refresh\":0}",
+    "NotebookFontSize": "14.0",
+    "ExperimentId": "3ed043bc-d41f-47f3-af02-0ed8516f672e",
+    "Theme": "\"CyberWave\"",
+    "ChangelogVersions": "{\"v0.2024.12.18.08.02.stable_03\":true}",
+    "AvailableLLMs": "{\"default_id\":\"claude-3-5-sonnet\",\"choices\":[{\"display_name\":\"claude 3.5 sonnet\",\"id\":\"claude-3-5-sonnet\"},{\"display_name\":\"claude 3.5 haiku\",\"id\":\"claude-3-5-haiku\"},{\"display_name\":\"gpt-4o\",\"id\":\"gpt-4o\"}]}",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "NextCommandRichBlockState": "\"Shown\"",
+    "AgentModeSuggestionsRemainingWarnings": "2",
+    "CrashReportingEnabled": "true",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":1,\"next_refresh_time\":\"2025-01-25T07:29:25.296933Z\",\"is_unlimited\":false,\"request_limit_refresh_duration\":\"Monthly\",\"accepted_autosuggestions_limit\":250,\"is_unlimited_autosuggestions\":false,\"accepted_autosuggestions_since_last_refresh\":0}",
+    "DidShowActiveAIPermissionsDialog": "true"
+  }
+}

@@ -38,801 +38,153 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Compress...___</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>43736357</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress...___&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compress to &apos;7z&apos; (each)</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>88871686</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress to &apos;7z&apos; (each)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compress to &apos;iso&apos; (each)</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>82553132</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress to &apos;iso&apos; (each)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compress to &apos;squashfs&apos; (each)</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>36490913</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress to &apos;squashfs&apos; (each)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compress to &apos;tar.gz&apos; (each)</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>17837890</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress to &apos;tar.gz&apos; (each)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compress to &apos;tar.xz&apos; (each)</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>74356093</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress to &apos;tar.xz&apos; (each)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compress to &apos;zip&apos; (each)</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>65589099</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Compress to &apos;zip&apos; (each)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Extract Here</name>
-	<submenu>Scripts/Archive</submenu>
-	<unique-id>67869371</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Archive/Extract Here&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Concatenate files (&apos;wav&apos; output)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>56122568</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Concatenate files (&apos;wav&apos; output)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;flac&apos;</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>43200573</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Convert to &apos;flac&apos;&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;mp3&apos; (192 kbps)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>98894270</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Convert to &apos;mp3&apos; (192 kbps)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;mp3&apos; (320 kbps)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>31418985</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Convert to &apos;mp3&apos; (320 kbps)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;mp3&apos; (48 kbps, mono)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>99737783</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Convert to &apos;mp3&apos; (48 kbps, mono)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;ogg&apos;</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>59019536</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Convert to &apos;ogg&apos;&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;wav&apos;</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>26996804</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Convert to &apos;wav&apos;&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Effect Fade in</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>46080861</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Effect Fade in&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Effect Fade out</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>91974768</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Effect Fade out&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Effect Noise gate (-30 dB)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>09659901</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Effect Noise gate (-30 dB)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Effect Normalize</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>19903534</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Effect Normalize&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Effect Truncate silence (-30 dB)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>59057693</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Effect Truncate silence (-30 dB)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List audio quality</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>34476502</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/List audio quality&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Mix channels to mono</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>74059178</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Mix channels to mono&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Mix two files (&apos;wav&apos; output)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>68045103</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Mix two files (&apos;wav&apos; output)&quot; %F</command>
-	<description></description>
-	<range>2-2</range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Apply max gain (recursive)</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>15932272</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/Apply max gain (recursive)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Apply normal gain (recursive)</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>89658522</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/Apply normal gain (recursive)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List ID3 tags</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>49686126</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/List ID3 tags&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List MP3 info</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>17704440</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/List MP3 info&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Repair (recursive)</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>62340099</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/Repair (recursive)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Tag - filename to ID3 (artist - title)</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>93449601</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/Tag - filename to ID3 (artist - title)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Tag - ID3 to filename (artist - title)</name>
-	<submenu>Scripts/Audio MP3</submenu>
-	<unique-id>19544502</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio MP3/Tag - ID3 to filename (artist - title)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Produce a spectrogram</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>60236808</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Produce a spectrogram&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Strip metadata (recursive)</name>
-	<submenu>Scripts/Audio</submenu>
-	<unique-id>21300095</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Audio/Strip metadata (recursive)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<other-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compare items</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>98597796</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/Compare items&quot; %F</command>
-	<description></description>
-	<range>2-3</range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Compare with diff</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>77593281</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/Compare with diff&quot; %F</command>
-	<description></description>
-	<range>2-2</range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Create link (hard link)</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>27636069</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/Create link (hard link)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Create link (symbolic link)</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>98883691</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/Create link (symbolic link)&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List duplicate files</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>32770338</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List duplicate files&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List empty directories</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>61290837</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List empty directories&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List file information</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>95672578</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List file information&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List file mime</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>97567367</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List file mime&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List hidden items</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>02620221</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List hidden items&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List item properties</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>88062219</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List item properties&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List largest directories</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>34013103</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List largest directories&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>List largest files</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>43786653</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/List largest files&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Open item location</name>
-	<submenu>Scripts/Directories and files</submenu>
-	<unique-id>38159914</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Directories and files/Open item location&quot; %F</command>
-	<description></description>
-	<range></range>
-	<patterns>*</patterns>
-	<directories/>
-	<audio-files/>
-	<image-files/>
-	<other-files/>
-	<text-files/>
-	<video-files/>
-</action>
-<action>
-	<icon></icon>
-	<name>Convert to &apos;docx&apos;</name>
+	<name>Convert to 'docx'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>53143656</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;docx&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'docx'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;epub&apos;</name>
+	<name>Convert to 'epub'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>41254049</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;epub&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'epub'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;markdown&apos;</name>
+	<name>Convert to 'markdown'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>08185595</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;markdown&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'markdown'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;odp&apos;</name>
+	<name>Convert to 'odp'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>85540378</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;odp&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'odp'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;ods&apos;</name>
+	<name>Convert to 'ods'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>64501639</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;ods&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'ods'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;odt&apos;</name>
+	<name>Convert to 'odt'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>80954914</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;odt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'odt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;pdf&apos;</name>
+	<name>Convert to 'pdf'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>59180560</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;pdf&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'pdf'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;pptx&apos;</name>
+	<name>Convert to 'pptx'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>25187343</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;pptx&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'pptx'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;txt&apos;</name>
+	<name>Convert to 'txt'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>82248618</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;xlsx&apos;</name>
+	<name>Convert to 'xlsx'</name>
 	<submenu>Scripts/Document</submenu>
 	<unique-id>62666566</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to &apos;xlsx&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document/Convert to 'xlsx'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1235,10 +587,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;PDFA-2b&apos;</name>
+	<name>Convert to 'PDFA-2b'</name>
 	<submenu>Scripts/Document PDF/PDF tools</submenu>
 	<unique-id>71755503</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Document PDF/PDF tools/Convert to &apos;PDFA-2b&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Document PDF/PDF tools/Convert to 'PDFA-2b'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1264,8 +616,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1278,9 +630,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1293,9 +645,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1308,9 +660,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1323,9 +675,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1336,8 +688,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1350,9 +702,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1365,9 +717,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1380,9 +732,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1393,8 +745,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1408,9 +760,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1424,9 +776,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1439,25 +791,25 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Set executable for &apos;.sh&apos; (recursive)</name>
+	<name>Set executable for '.sh' (recursive)</name>
 	<submenu>Scripts/File permissions</submenu>
 	<unique-id>31657675</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/File permissions/Set executable for &apos;.sh&apos; (recursive)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/File permissions/Set executable for '.sh' (recursive)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1470,9 +822,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1485,9 +837,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1500,9 +852,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1516,9 +868,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1532,9 +884,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1548,9 +900,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1564,9 +916,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1580,9 +932,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1596,121 +948,121 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Produce &apos;md5sum.txt&apos;</name>
+	<name>Produce 'md5sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>19303576</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce &apos;md5sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce 'md5sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Produce &apos;sha1sum.txt&apos;</name>
+	<name>Produce 'sha1sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>62169281</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce &apos;sha1sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce 'sha1sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Produce &apos;sha256sum.txt&apos;</name>
+	<name>Produce 'sha256sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>10151891</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce &apos;sha256sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce 'sha256sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Produce &apos;sha512sum.txt&apos;</name>
+	<name>Produce 'sha512sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>63480291</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce &apos;sha512sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Produce 'sha512sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Verify &apos;md5sum.txt&apos;</name>
+	<name>Verify 'md5sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>11438703</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify &apos;md5sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify 'md5sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Verify &apos;sha1sum.txt&apos;</name>
+	<name>Verify 'sha1sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>70440162</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify &apos;sha1sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify 'sha1sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Verify &apos;sha256sum.txt&apos;</name>
+	<name>Verify 'sha256sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>09502701</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify &apos;sha256sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify 'sha256sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Verify &apos;sha512sum.txt&apos;</name>
+	<name>Verify 'sha512sum.txt'</name>
 	<submenu>Scripts/Hash and checksum</submenu>
 	<unique-id>12377374</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify &apos;sha512sum.txt&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Hash and checksum/Verify 'sha512sum.txt'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -1762,10 +1114,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Combine into a &apos;gif&apos;</name>
+	<name>Combine into a 'gif'</name>
 	<submenu>Scripts/Image/Combine, split</submenu>
 	<unique-id>06619712</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Combine, split/Combine into a &apos;gif&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Combine, split/Combine into a 'gif'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1774,10 +1126,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Combine into a &apos;pdf&apos;</name>
+	<name>Combine into a 'pdf'</name>
 	<submenu>Scripts/Image/Combine, split</submenu>
 	<unique-id>62802585</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Combine, split/Combine into a &apos;pdf&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Combine, split/Combine into a 'pdf'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1846,10 +1198,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;bmp&apos;</name>
+	<name>Convert to 'bmp'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>33068315</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to &apos;bmp&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to 'bmp'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1858,10 +1210,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;gif&apos;</name>
+	<name>Convert to 'gif'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>10314904</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to &apos;gif&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to 'gif'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1870,10 +1222,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;jpg&apos;</name>
+	<name>Convert to 'jpg'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>67797847</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to &apos;jpg&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to 'jpg'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1882,10 +1234,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;png&apos;</name>
+	<name>Convert to 'png'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>87149907</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to &apos;png&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to 'png'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1894,10 +1246,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;tif&apos;</name>
+	<name>Convert to 'tif'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>36249221</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to &apos;tif&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to 'tif'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1906,10 +1258,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;webp&apos;</name>
+	<name>Convert to 'webp'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>24107068</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to &apos;webp&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Convert to 'webp'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1918,10 +1270,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Export to &apos;pdf&apos;</name>
+	<name>Export to 'pdf'</name>
 	<submenu>Scripts/Image/Convert</submenu>
 	<unique-id>31461692</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Export to &apos;pdf&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Convert/Export to 'pdf'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1930,10 +1282,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Create &apos;png&apos; icon (128 px)</name>
+	<name>Create 'png' icon (128 px)</name>
 	<submenu>Scripts/Image/Create icon</submenu>
 	<unique-id>70061356</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create &apos;png&apos; icon (128 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create 'png' icon (128 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1942,10 +1294,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Create &apos;png&apos; icon (256 px)</name>
+	<name>Create 'png' icon (256 px)</name>
 	<submenu>Scripts/Image/Create icon</submenu>
 	<unique-id>64619148</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create &apos;png&apos; icon (256 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create 'png' icon (256 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1954,10 +1306,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Create &apos;png&apos; icon (512 px)</name>
+	<name>Create 'png' icon (512 px)</name>
 	<submenu>Scripts/Image/Create icon</submenu>
 	<unique-id>92829390</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create &apos;png&apos; icon (512 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create 'png' icon (512 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -1966,10 +1318,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Create &apos;png&apos; icon (64 px)</name>
+	<name>Create 'png' icon (64 px)</name>
 	<submenu>Scripts/Image/Create icon</submenu>
 	<unique-id>57288835</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create &apos;png&apos; icon (64 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Create icon/Create 'png' icon (64 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2162,10 +1514,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Optimize &apos;jpg&apos; (strip metadata)</name>
+	<name>Optimize 'jpg' (strip metadata)</name>
 	<submenu>Scripts/Image/Optimize</submenu>
 	<unique-id>14581506</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Optimize/Optimize &apos;jpg&apos; (strip metadata)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Optimize/Optimize 'jpg' (strip metadata)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2174,10 +1526,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Optimize &apos;png&apos;</name>
+	<name>Optimize 'png'</name>
 	<submenu>Scripts/Image/Optimize</submenu>
 	<unique-id>43270614</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image/Optimize/Optimize &apos;png&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image/Optimize/Optimize 'png'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2186,10 +1538,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert &apos;svg&apos; to &apos;svgz&apos; (compress)</name>
+	<name>Convert 'svg' to 'svgz' (compress)</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>62930931</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Convert &apos;svg&apos; to &apos;svgz&apos; (compress)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Convert 'svg' to 'svgz' (compress)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2198,10 +1550,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Convert &apos;svgz&apos; to &apos;svg&apos; (decompress)</name>
+	<name>Convert 'svgz' to 'svg' (decompress)</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>06838712</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Convert &apos;svgz&apos; to &apos;svg&apos; (decompress)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Convert 'svgz' to 'svg' (decompress)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2209,10 +1561,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Export &apos;svg&apos; to &apos;eps&apos;</name>
+	<name>Export 'svg' to 'eps'</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>99857401</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export &apos;svg&apos; to &apos;eps&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export 'svg' to 'eps'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2221,10 +1573,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Export &apos;svg&apos; to &apos;pdf&apos;</name>
+	<name>Export 'svg' to 'pdf'</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>68909951</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export &apos;svg&apos; to &apos;pdf&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export 'svg' to 'pdf'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2233,10 +1585,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Export &apos;svg&apos; to &apos;png&apos; (1024 px)</name>
+	<name>Export 'svg' to 'png' (1024 px)</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>54831307</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export &apos;svg&apos; to &apos;png&apos; (1024 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export 'svg' to 'png' (1024 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2245,10 +1597,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Export &apos;svg&apos; to &apos;png&apos; (256 px)</name>
+	<name>Export 'svg' to 'png' (256 px)</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>46585143</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export &apos;svg&apos; to &apos;png&apos; (256 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export 'svg' to 'png' (256 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2257,10 +1609,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Export &apos;svg&apos; to &apos;png&apos; (512 px)</name>
+	<name>Export 'svg' to 'png' (512 px)</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>83709114</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export &apos;svg&apos; to &apos;png&apos; (512 px)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Export 'svg' to 'png' (512 px)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2269,10 +1621,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Replace fonts to &apos;Charter&apos;</name>
+	<name>Replace fonts to 'Charter'</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>96309693</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Replace fonts to &apos;Charter&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Replace fonts to 'Charter'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2281,10 +1633,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Replace fonts to &apos;Helvetica&apos;</name>
+	<name>Replace fonts to 'Helvetica'</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>82646555</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Replace fonts to &apos;Helvetica&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Replace fonts to 'Helvetica'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2293,10 +1645,10 @@
 </action>
 <action>
 	<icon></icon>
-	<name>Replace fonts to &apos;Times&apos;</name>
+	<name>Replace fonts to 'Times'</name>
 	<submenu>Scripts/Image SVG</submenu>
 	<unique-id>96012668</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Replace fonts to &apos;Times&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Image SVG/Replace fonts to 'Times'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
@@ -2530,9 +1882,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2545,9 +1897,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2560,9 +1912,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2575,9 +1927,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2590,9 +1942,9 @@
 	<patterns>*</patterns>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2606,9 +1958,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2622,9 +1974,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2638,33 +1990,33 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert &apos;4 spaces&apos; to &apos;tabs&apos;</name>
+	<name>Convert '4 spaces' to 'tabs'</name>
 	<submenu>Scripts/Plain text</submenu>
 	<unique-id>45478516</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Plain text/Convert &apos;4 spaces&apos; to &apos;tabs&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Plain text/Convert '4 spaces' to 'tabs'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert &apos;tabs&apos; to &apos;4 spaces&apos;</name>
+	<name>Convert 'tabs' to '4 spaces'</name>
 	<submenu>Scripts/Plain text</submenu>
 	<unique-id>76481743</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Plain text/Convert &apos;tabs&apos; to &apos;4 spaces&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Plain text/Convert 'tabs' to '4 spaces'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2675,8 +2027,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2687,8 +2039,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2699,8 +2051,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2711,8 +2063,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2723,8 +2075,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2736,8 +2088,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2749,8 +2101,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2762,8 +2114,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2775,8 +2127,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2788,8 +2140,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2801,8 +2153,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2814,8 +2166,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2826,8 +2178,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2839,8 +2191,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2852,8 +2204,8 @@
 	<range></range>
 	<patterns>*</patterns>
 	<directories/>
-	<other-files/>
 	<text-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2867,9 +2219,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2883,9 +2235,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2899,9 +2251,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2915,9 +2267,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2931,9 +2283,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2947,9 +2299,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2963,9 +2315,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2979,9 +2331,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -2995,9 +2347,9 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -3011,69 +2363,69 @@
 	<directories/>
 	<audio-files/>
 	<image-files/>
-	<other-files/>
 	<text-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;mkv&apos;</name>
+	<name>Convert to 'mkv'</name>
 	<submenu>Scripts/Video</submenu>
 	<unique-id>28107927</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to &apos;mkv&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to 'mkv'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;mkv&apos; (copy video)</name>
+	<name>Convert to 'mkv' (copy video)</name>
 	<submenu>Scripts/Video</submenu>
 	<unique-id>79608758</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to &apos;mkv&apos; (copy video)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to 'mkv' (copy video)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;mp4&apos;</name>
+	<name>Convert to 'mp4'</name>
 	<submenu>Scripts/Video</submenu>
 	<unique-id>78288694</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to &apos;mp4&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to 'mp4'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Convert to &apos;mp4&apos; (copy video)</name>
+	<name>Convert to 'mp4' (copy video)</name>
 	<submenu>Scripts/Video</submenu>
 	<unique-id>72110405</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to &apos;mp4&apos; (copy video)&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Video/Convert to 'mp4' (copy video)&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Export to &apos;gif&apos;</name>
+	<name>Export to 'gif'</name>
 	<submenu>Scripts/Video</submenu>
 	<unique-id>13325704</unique-id>
-	<command>bash &quot;/home/batan/.local/share/scripts/Video/Export to &apos;gif&apos;&quot; %F</command>
+	<command>bash &quot;/home/batan/.local/share/scripts/Video/Export to 'gif'&quot; %F</command>
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -3084,8 +2436,8 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
+	<other-files/>
 </action>
 <action>
 	<icon></icon>
@@ -3096,31 +2448,7 @@
 	<description></description>
 	<range></range>
 	<patterns>*</patterns>
-	<other-files/>
 	<video-files/>
-</action>
-<action>
-	<icon>/home/batan/100/icons/03icon.gpt.128.png</icon>
-	<name>lc-bash</name>
-	<submenu></submenu>
-	<unique-id>1720518999380153-1</unique-id>
-	<command>kitty sudo -u batan bash %f</command>
-	<description>execute bash scripts</description>
-	<range>*</range>
-	<patterns>*</patterns>
-	<other-files/>
-	<text-files/>
-</action>
-<action>
-	<icon>/home/batan/100/icons/icon.speaker.128.png</icon>
-	<name>play mp3</name>
-	<submenu></submenu>
-	<unique-id>1720520051978192-2</unique-id>
-	<command>/usr/bin/lc-thunar-play-mp3 %f</command>
-	<description></description>
-	<range>*</range>
-	<patterns>*.mp3</patterns>
-	<audio-files/>
 	<other-files/>
 </action>
-</actions>
+<actions>

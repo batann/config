@@ -1,0 +1,21 @@
+- bash script to:
+I) Further modification to the ccleaning script 
+   as it lends itself as a good example, when complete,
+   1) Create a .bashrc.script file
+   2) Source the .bashrc.script file  before running as usual
+	  in order to enable a specific output format and ,,,
+II) Think of progress.sh  without a loop...
+   1) It would work if alternated with the rest of the code
+   		a) benefit - accuracy, cool  appearance, additional steps not
+		   noticable
+		b) disadvantage -  needs to be intergrated with each script
+		   individually
+   2) PROMPT_COMMAND
+   3) PS1
+III) 
+
+
+- Centerlink Redfern PhNu: 132468
+
+	
+
