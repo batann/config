@@ -1,0 +1,8 @@
+source /home/batan/.config/i3/conf.d/app.conf
+source /home/batan/.config/i3/conf.d/keybindings.conf
+source /home/batan/.config/i3/conf.d/launchers.conf
+source /home/batan/.config/i3/conf.d/other.conf
+source /home/batan/.config/i3/conf.d/scripts.conf
+source /home/batan/.config/i3/conf.d/startup.conf
+source /home/batan/.config/i3/conf.d/wallpaper.conf
+source /home/batan/.config/i3/conf.d/workspaces.conf

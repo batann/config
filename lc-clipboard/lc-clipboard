@@ -1,0 +1,62 @@
+#!/bin/bash
+# vim:fileencoding=utf-8:foldmethod=marker
+
+DIR_BASE="/home/batan/.config/lc-clipboard"
+
+count="1"
+show_register() {
+	
+	opt=$(ls /home/batan/.config/lc-clipboard/register*);
+	for reg in ${opt[@]};
+	do
+		echo -e "${reg}: >>> \033[3${count}m$(cat $reg)\033[0m"
+		((count++))
+	done
+	
+}
+
+move_register() {
+		mv $DIR_BASE/register8 $DIR_BASE/register9
+		mv $DIR_BASE/register7 $DIR_BASE/register8
+		mv $DIR_BASE/register6 $DIR_BASE/register7
+		mv $DIR_BASE/register5 $DIR_BASE/register6
+		mv $DIR_BASE/register4 $DIR_BASE/register5
+		mv $DIR_BASE/register3 $DIR_BASE/register4
+		mv $DIR_BASE/register2 $DIR_BASE/register3
+		mv $DIR_BASE/register1 $DIR_BASE/register2
+		mv $DIR_BASE/register0 $DIR_BASE/register1
+		touch $DIR_BASE/register0
+}
+
+
+
+
+# Set a trap for SIGINT (Ctrl+C)
+#trap 'echo "Caught Ctrl+C! Breaking the loop..."; break' SIGINT
+
+
+							# Start Listening
+					previous_clipboard=""
+							#Listen for clipboard changes
+while true; 
+do
+							# Get current clipboard content
+    				current_clipboard=$(xclip -o -selection clipboard)
+							# Check if clipboard content has changed
+    				if [[ "$current_clipboard" != "$previous_clipboard" ]]; then
+    					   # move registry one up and create blank registry 0
+					move_register
+
+						   # Append clipboard content to file1
+        			echo "$current_clipboard" >> /home/batan/.config/lc-clipboard/register0
+					       	# Update previous clipboard content
+        			previous_clipboard="$current_clipboard"
+    				fi
+					   		# Sleep for a short duration to avoid high CPU usage
+    				sleep 0.2
+				done
+
+
+
+
+
